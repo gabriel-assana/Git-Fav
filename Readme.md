@@ -34,12 +34,6 @@ Aprendizado durante o projeto:
 
 
 
- ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-&nbsp;
-
-<p align="center">Feito com 💜 by Jonas Martins👋</p>
 
 
