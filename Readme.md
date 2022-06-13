@@ -1,38 +1,43 @@
-# GitFav
- 
- o desafio era criar uma página onde fosse possivel adicionar vários perfil github como favorito, e deixar salvo no localstorage do navegador.
+<h1 align="center">
+  <img src="./assets/git-fav-logo.png" height="100px" alt="Git Fav"/>
+</h1>
 
-
- <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
-  
+<h2 align="center" >Descrição do Projeto</h2>
+<p align="center">
+ GitFav é o 2° desafio do Nivel 06 do programa Explorer da Rockeseat. Desafio consiste na criação de uma aplicação que liste os perfis favoritos do Github.
 </p>
 
+<h1 align="center">
+  <img alt="logo" title="#logo" src="./src/assets/git-fav.gif" />
+</h1>
 
-## 🚀 Tecnologias
+## 🔎 Aprendizado durante o projeto:
+
+- [x] Assíncrono e promises.
+- [x] Orientação a objetos.
+- [x] Classes e muito mais.
+- [x] localStorage.
+
+
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+✔️ JavaScript
+
+✔️ HTML
+
+✔️ CSS
+
+✔️ Classes
+
+✔️ localStorage
 
 
-## 💻 Projeto
+<h2>Pré-requisitos</h2>
 
-![image](.github/gitfav.png)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com) e [Node](https://nodejs.org/pt-br/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-
-Aprendizado durante o projeto:
-
-- Assíncrono e promises;
-- Orientação a objetos;
-- Classes e muito mais.
-- localStorage.
-
-
-
-
-
-
+## 🔗 Link da aplicação no ar: https://git-fav.netlify.app/
