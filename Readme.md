@@ -29,8 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️ CSS
 
-<<<<<<< HEAD
-=======
 ✔️ Classes
 
 ✔️ localStorage
@@ -43,4 +41,3 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ## 🔗 Link da aplicação no ar: https://git-fav.netlify.app/
->>>>>>> 2375919078f6c125ad0ee4fcad1dae0dcedc7617
