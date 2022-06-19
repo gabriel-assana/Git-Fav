@@ -19,7 +19,7 @@
 - [x] localStorage.
 
 
-## :rocket: Tecnologias
+## :rocket: Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
