@@ -2,7 +2,7 @@
   <img src="./assets/git-fav-logo.png" height="100px" alt="Git Fav"/>
 </h1>
 
-<h2 align="center" >Descrição do Projeto</h2> 
+<h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
  GitFav é o 2° desafio do Nivel 06 do programa Explorer da Rockeseat. Desafio consiste na criação de uma aplicação que liste os perfis favoritos do Github.
 </p>
