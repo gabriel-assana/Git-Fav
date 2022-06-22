@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./assets/git-fav-logo.png" height="100px" alt="Git Fav"/>
-</h1>
+</h1> 
 
 <h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
