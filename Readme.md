@@ -9,7 +9,7 @@
 
 <h1 align="center"> 
   <img alt="logo" title="#logo" src="./assets/git-fav.gif" />
-</h1> 
+</h1>  
 
 ## 🔎 Aprendizado durante o projeto:
 
