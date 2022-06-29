@@ -11,7 +11,6 @@
   <img alt="logo" title="#logo" src="./assets/git-fav.gif" /> 
 </h1>  
 
-
 ## 🔎 Aprendizado durante o projeto:
 
 - [x] Assíncrono e promises.
