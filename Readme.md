@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center"> 
-  <img alt="logo" title="#logo" src="./assets/git-fav.gif" />
+  <img alt="logo" title="#logo" src="./assets/git-fav.gif" /> 
 </h1>  
 
 
